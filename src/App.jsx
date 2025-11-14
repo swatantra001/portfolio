@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar"
-import About from "./sections/about"
+import About from "./sections/About"
 import Contact from "./sections/Contact"
 import Experience from "./sections/Experience"
 import Footer from "./sections/Footer"
