@@ -74,7 +74,7 @@ const Home = () => {
 					<motion.p className='mt-6 text-base sm:text-lg md:text-xl text-gray-300 max-w-2xl mx-auto lg:mx-0'
 						initial= {{opacity: 0, y: 40}}
 						animate={{opacity: 1, y: 0}}
-						transition={{duration: 0.4, duration: 0.8}}
+						transition={{duration: 0.4}}
 					>
 						I turn complex ideas into seamless, high-impact web experiences - building modern, scalable, and lightning-fast applications that make a difference.
 					</motion.p>
